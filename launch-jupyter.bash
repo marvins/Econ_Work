@@ -2,4 +2,5 @@
 
 . ./venv/bin/activate
 
+tmux new-session -n jupyter
 
