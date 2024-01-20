@@ -1,4 +1,1 @@
 jupyter contrib nbextension install --user
-jupyter nbextension enable --py widgetsnbextension
-jupyter lab build --minimize=False
-jupyter labextension install plotlywidget jupyterlab-plotly @jupyter-widgets/jupyterlab-manager
