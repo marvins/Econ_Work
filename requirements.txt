@@ -4,6 +4,8 @@ jupyter_contrib_nbextensions
 matplotlib
 openpyxl
 pandas
+panel
 plotly
+pyarrow
 scikit-learn
 scipy
